@@ -51,6 +51,7 @@ function startTimer() {
       if (timerCount > 0) {
         timerEl.textContent = "Time: " + timerCount;
         timerCount--;
+        //pullQuestion();
       } else if (timerCount === 1){
         timerEl.textContent = timerCount;
         timerCount--;
