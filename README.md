@@ -57,3 +57,4 @@ Language: CSS
 Language: JavaScript
 
 ## Deployment
+https://kflinnn.github.io/Quiz-Yo-Self/
